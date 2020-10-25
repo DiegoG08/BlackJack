@@ -1,4 +1,4 @@
-###BlackJack & Other Games
+# BlackJack & Other Games
 To run program execute `CTRL+O` or `CMD+O` in browser and run `index.html` file 
 
 <div>
